@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Marko\\Marko\\Marko.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\SQl\\Marko\\Marko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Marko\\Marko\\Marko.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\SQl\\Marko\\Marko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Marko\\Marko\\Marko.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\SQl\\Marko\\Marko.csproj",
         "projectName": "Marko",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Marko\\Marko\\Marko.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\SQl\\Marko\\Marko.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Marko\\Marko\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\SQl\\Marko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -45,7 +45,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[3.1.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -55,7 +55,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.20, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
